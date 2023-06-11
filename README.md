@@ -1,2 +1,2 @@
-# Food-calorie-estimate
-Food calorie estimation using Convolutional Neural Networks (CNN).
+# Fruit calorie estimation
+Fast fruit calorie estimation using Region-based Convolutional Neural Network (Faster R-CNN) and image processing techniques.
